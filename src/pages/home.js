@@ -112,7 +112,7 @@ class Home extends Component {
       <StyledLayout>
         <Sider collapsedWidth="0" className="sider">
           <div className="search-wrapper">
-            <Input placeholder="Search Notes" onChange={this.searchNotes} />
+            <Input placeholder="Search Humans" onChange={this.searchNotes} />
           </div>
           
           <Menu theme="dark" mode="inline">
